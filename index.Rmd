@@ -1,0 +1,161 @@
+---
+title: "Nusrat Jabin"
+image: "njabin.jpg"
+links:
+  - label: '📑 CV'
+    url: "https://drive.google.com/file/d/1jsJgRgn3vTkav72Q-f9v3jbAIY9a7zYt/view?usp=sharing"
+  - label: '`r fontawesome::fa("x-twitter", fill = "#242424")` Twitter'
+    url: "https://x.com/NusratJabin3"
+  - label: '`r fontawesome::fa("github", fill = "#080808")` GitHub'
+    url: "https://github.com/nusrat-jabin"
+  - label: '`r fontawesome::fa("linkedin", fill = "#3A5FCD")` LinkedIn'
+    url: "https://linkedin.com/in/nusrat-jabin"
+  - label: '`r fontawesome::fa("orcid", fill = "#B3EE3A")` ORCiD'
+    url: "https://orcid.org/0009-0000-1101-3454"
+  - label: '`r fontawesome::fa("google", fill = "#7EC0EE")` Google Scholar'
+    url: "https://scholar.google.com/citations?user=br9keYsAAAAJ&hl=en"
+  - label: '`r fontawesome::fa("at", fill = "#36648B")` Email'
+    url: "njabin1@jhu.edu"
+output:
+  postcards::trestles
+---
+## <span style="color:  #276d6c;"> `r fontawesome::fa("user", fill = "#276d6c", prefer_type="solid")` Bio</span>
+|  |  
+|:--------------------------------------------------|
+I am a PhD student in the **<a href="https://publichealth.jhu.edu/departments/population-family-and-reproductive-health/people/students/phd-students"><span style="color:#ae2e2e;">Department of Population, Family, and Reproductive Health</span></a>**,  at the Johns Hopkins Bloomberg School of Public Health. My research focuses on maternal and child health, with particular interests in nutrition, epigenetic aging, and the developmental origins of health and disease (DOHaD). I have experience working with international research consortia and large-scale cohort studies, including projects on nutrition and epigenetic aging acceleration, gestational weight gain, indoor air pollution, and global pandemic preparedness.
+<br>
+My long-term goal is to bridge research and policy by designing and analyzing studies that inform interventions and strategies to improve women’s health worldwide.
+<br> 
+
+---
+
+## <span style="color:  #276d6c;"> `r fontawesome::fa("graduation-cap", fill = "#276d6c")` Education</span>
+
+|  |  | |
+|:--------------------------------------------------|:----------------|-------------------------------------------------------------:|
+| **<span style="color:  #276d6c;"> Johns Hopkins Bloomberg School of Public Health </span>** | |[2024 - present]{style="float:right"}  
+| <span style="color: #545454;"> PhD in Population, Family, and Reproductive Health </span> | |[📍Baltimore, USA]{style="float:right"} 
+|<br>| 
+ **<span style="color:  #276d6c;"> University of Oxford </span>** || [2019 - 2020]{style="float:right"}  
+| <span style="color: #545454;"> MS in International Health and Tropical Medicine </span> ||[📍Oxfordshire, UK]{style="float:right"}  
+|<br>| 
+| **<span style="color:  #276d6c;"> Scineces Po </span>** || [2013 - 2014]{style="float:right"} 
+| <span style="color: #545454;"> Exchange Program </span> || [📍Reims, France]{style="float:right"} 
+|<br>| 
+**<span style="color:  #276d6c;"> Asian University for Women </span>** || [2010 - 2015]{style="float:right"}  
+|<span style="color: #545454;"> BS in Public Health </span>||[📍Chattagram, Bangladesh]{style="float:right"}
+--- 
+
+## <span style="color:  #276d6c;"> `r fontawesome::fa("laptop-code", fill = "#276d6c")` Research experience</span>
+|  |  |
+|:--------------------------------------------------|:----------------|
+| **<span style="color:  #030303;"> Bloomberg School of Public Health, Baltimore, USA </span>** | [August 2024 - Present]{style="float:right"}  |
+| <span style="color:  #545454;"> Research assistant in the [ Center on the Early Life Origins of Disease (CELOD)](https://publichealth.jhu.edu/center-on-early-life-origins-of-disease) of [Dr. Xiaobin Wang](https://publichealth.jhu.edu/faculty/2518/xiaobin-wang). </span> | [📍USA]{style="float:right"}  ||
+|<br>|   |
+| **<span style="color:  #030303;"> Bloomberg School of Public Health, Baltimore, USA </span>** | [May 2025 - Present]{style="float:right"}  |
+| <span style="color:  #545454;"> Research assistant in the [ JiVitA Bangladesh](https://publichealth.jhu.edu/departments/international-health/research-and-practice/centers-and-research-groups/center-for-human-nutrition/research/research-programs/jivita-bangladesh) of [Dr.Daniel J. Erchick](https://publichealth.jhu.edu/faculty/2800/daniel-j-erchick). </span> | [📍USA \| `r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`]{style="float:right"}||
+|<br>|   |
+| **<span style="color:  #030303;"> University of Southern California (USC), Los Angeles, CA </span>** | [September 2020 - present]{style="float:right"} |
+| <span style="color: #545454;"> Research analyst in the [Bangladesh Cook Stove Pregnancy Cohort Study (CSPCS)](https://www.nal.usda.gov/research-tools/food-safety-research-projects/effect-cook-stove-exposure-adverse-pregnancy-outcomes) of [Dr. Talat Islam](https://keck.usc.edu/faculty-search/khandaker-talat-islam/). </span> | [📍\ `r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`]{style="float:right"} ||
+|<br>|   |
+| **<span style="color:  #030303;"> Kenya Paedeatric Research Consortium (KEPRECON), Nairobi, Kenya </span>** | [March 2021 - March 2023]{style="float:right"} |
+| <span style="color: #545454;"> Research assistant in the [Novel Approaches for Modelling Gestational Weight Gain Trajectories Using the Super Imposition Translation and Rotation Growth Model for Predicting Neonatal Outcomes project](https://gcgh.grandchallenges.org/grant/novel-approaches-modelling-gestational-weight-gain-trajectories-using-super-imposition) of [Dr. Lucas Malla](https://www.lshtm.ac.uk/aboutus/people/malla.lucas) & [Dr. Eric Ohuma](https://www.lshtm.ac.uk/aboutus/people/ohuma.eric). </span> | [📍\ `r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`]{style="float:right"} ||
+|<br>|   |
+| **<span style="color:  #030303;"> University of Oxford, Oxfordshire, UK </span>** | [March 2024 - October 2025]{style="float:right"} |
+| <span style="color: #545454;"> Research assistant in the [Pandemic PACT, Pandemic Analytical Capacity & Funding Tracking Programme ](https://www.glopid-r.org/pandemic-pact/) with [Dr. Alice Nortion](https://www.psi.ox.ac.uk/our-team/alice-norton). </span> | [📍\ `r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`]{style="float:right"} ||
+|<br>|   |
+| **<span style="color:  #030303;"> UK Collaborative on Development Research (UKCDR), London, UK </span>** | [December 2020 - February 2024]{style="float:right"} |
+| <span style="color: #545454;"> Research assistant in the [COVID CIRCLE Programme ](https://ukcdr.org.uk/celebrating-covid-circle/) with [Dr. Alice Nortion](https://www.psi.ox.ac.uk/our-team/alice-norton). </span> | [📍\ `r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`]{style="float:right"} ||
+|<br>|   |
+| **<span style="color:  #030303;"> Innovations for Poverty Action (IPA), Washington, D.C, USA </span>** | [September 2016 - May 2019]{style="float:right"}  |
+| <span style="color:  #545454;"> Research associate in the [ Stress Management Practices, Owner Well-Being, and Firm Outcomes in Bangladesh](https://poverty-action.org/publication/stress-management-practices-owner-well-being-and-firm-outcomes-bangladesh) of [Dr. Paula Lopez Pena](https://sites.google.com/view/plopezpena/home?authuser=0). </span> | [📍Bangladesh]{style="float:right"}  ||
+|<br>|   |
+| **<span style="color:  #030303;"> Assian University for Women (AUW), Chittagong, Bangladesh </span>** | [September 2016 - May 2019]{style="float:right"}  |
+| <span style="color:  #545454;"> Teaching Fellow in the [ BS in Public Health Program](https://asian-university.org/academic-programs/pre-undergraduate-programs/teaching-fellowship/). </span> | [📍Bangladesh]{style="float:right"}  ||
+|<br>|   |
+-----
+
+
+
+## <span style="color:  #276d6c;"> `r fontawesome::fa("file-lines", fill = "#276d6c")` Selected Publications</span>
+|  |  |
+|:-----------------------------|
+|**Jabin, N.**, Malla, L., Otieno, G., Ismail, L. C., Barros, F. C., Berkley, J., ... & Ohuma, E. O. (2025). Association between gestational age-specific weight gain in pregnancy and risk of adverse perinatal outcomes: a secondary analysis of the INTERBIO-21st Fetal Study. **[The American journal of clinical nutrition.](https://doi.org/10.1016/j.ajcnut.2025.04.012)**||
+|<br>|   |
+|**Jabin, N.**, Rahman, M., Salam, M. T., Franklin, M., Ahmed, A., Quaiyum, M. A., & Islam, T. (2024, August). Infant Sex Modifies the Effect of Indoor Air Pollution on Age of ALRI Onset among Infants in Rural Bangladesh. **[In ISEE Conference Abstracts (Vol. 2024, No. 1).](https://doi.org/10.1289/isee.2024.1663)**||
+|<br>|   |
+|Ohuma, E. O., **Jabin, N.**, Young, M. F., Epie, T., Martorell, R., Peña-Rosas, J. P., ... & Villar, J. (2023). Association between maternal haemoglobin concentrations and maternal and neonatal outcomes: the prospective, observational, multinational, INTERBIO-21st fetal study. **[\The Lancet Haematology, 10(9), e756-e766.](https://doi.org/10.1016/S2352-3026(23)00170-9)**||
+|<br>|   |
+|**Jabin, N.**, Rahman, M. M., Salam, M. T., Sharna, T. I., Franklin, M., Bailey, M. J., ... & Islam, T. (2023). Cohort profile: Bangladesh Cook Stove Pregnancy Cohort Study (CSPCS). **[BMJ open, 13(5), e068539.](https://doi.org/10.1136/bmjopen-2022-068539)**||
+|<br>|   |
+|Rahman, M. M., Franklin, M., **Jabin, N.**, Sharna, T. I., Nower, N., Alderete, T. L., ... & Islam, T. (2023). Assessing household fine particulate matter (PM2. 5) through measurement and modeling in the Bangladesh cook stove pregnancy cohort study (CSPCS). **[Environmental Pollution, 338, 122568.](https://doi.org/10.1016/j.envpol.2023.122568)**||
+|<br>|   |
+|**Jabin, N.**, Salam, M. T., Rahman, M. M., Sharna, T. I., Franklin, M., Ahmed, A., ... & Islam, T. (2022). Social inequality influences the impact of household air pollution on birth outcomes. **[Science of The Total Environment, 822, 153405.](https://doi.org/10.1016/j.scitotenv.2022.153405)**||
+|<br>|   |
+|**Jabin, N.**, Rahman, M., Salam, M. T., Franklin, M., & Islam, T. (2022, September). Indoor air pollution and diet mediates the effects of social inequality on birth outcomes. **[In ISEE Conference Abstracts (Vol. 2022, No. 1).](https://doi.org/10.1289/isee.2022.O-OP-232)**||
+|<br>|   |
+|Bucher, A., Antonio, E., **Jabin, N.**, Jones, C., Padilla, A., Khader, S., ... & Norton, A. (2023). A living mapping review for COVID-19 funded research projects: final (27 month) update. **[Wellcome Open Research, 5, 209.](https://doi.org/10.12688/wellcomeopenres.16259.10)**||
+|<br>|   |
+
+--------------------------------------------------------
+
+## <span style="color:  #276d6c;"> `r fontawesome::fa("newspaper", fill = "#276d6c")` In the Press</span>
+|  |  |
+|:--------------------------------------------------|:----------------|
+|**June 2025**, **[<span style="color:#6d5849;">How does weight gain during pregnancy affect the health of newborns?](https://www.lshtm.ac.uk/research/centres/march-centre/news/462561/how-does-weight-gain-during-pregnancy-affect-health-newborns)**| |
+|<br>|   |
+|**March 2024**, **[<span style="color:#6d5849;">Wellcome Open Research publishes Pandemic PACT research funding protocol](https://www.glopid-r.org/wellcome-open-research-publishes-pandemic-pact-research-funding-protocol/)**||
+|<br>|   |
+|**February 2020**, **[<span style="color:#6d5849;">Forecast: Covid-19 peak a month away in Bangladesh](https://www.dhakatribune.com/bangladesh/health/234448/forecast-covid-19-peak-a-month-away-in-bangladesh)**||
+|<br>|   |
+|**February 2019**, **[<span style="color:#6d5849;">MSc IHTM annual visit to the Houses of Parliament](https://https://www.tropicalmedicine.ox.ac.uk/news/msc-ihtm-students-presented-their-policy-briefs-in-the-house-of-lords#:~:text=On%20the%2011th%20February%20the,in%20the%20House%20of%20Lords.&text=The%20five%20briefs%20focused%20on,Bazar%20is%20contained%20and%20extinguished)**||
+|<br>|   |
+---
+
+
+## <span style="color:  #276d6c;"> `r fontawesome::fa("person-chalkboard", fill = "#276d6c")` Conferences</span>
+|  |  |
+|:---------------------------------------------------------------------------------------------------------------------|:----------------|
+| **<span style="color:  #030303;"> APHA 2025 Annual Meeting, Washington D.C. </span>** | [November 2025]{style="float:right"}  |
+| <span style="color: #545454; margin-left:3px"> [`r fontawesome::fa("chalkboard-teacher", fill = "#FF0000")` ] \ Presented research titled **"Adequate maternal plasma folate levels are associated with deceleration of epigenetic aging: insights from Boston birth cohort"**. </span> | [📍US]{style="float:right"}  ||
+|<br>|  
+| **<span style="color:  #030303;"> DOHaD World Congress 2022, Vancouver. </span>** | [August 2022]{style="float:right"}  |
+| <span style="color: #545454; margin-left:3px"> [`r fontawesome::fa("chalkboard-teacher", fill = "#FF0000")` ] \ Presented research titled **"The Association between gestational weight gain and perinatal outcomes: The INTERBIO-21st Study"**. </span> | [📍Canada]{style="float:right"}  ||
+|<br>|  
+|<span style="color: #545454; margin-left:3px"> [`r fontawesome::fa("youtube", fill = "#FF0000")` ](https://www.youtube.com/watch?v=KJjhV3hxogQ&t=4044s) \ Presented a talk in the webinar titled **"What have we learned from funding COVID-19 research across the globe?"**. </span> |[November 2021]{style="float:right"} ||    |
+|<br>|  
+| **<span style="color:  #030303;"> Bangladesh-Netherlands Conference, Hope XXL, Duive </span>** | [May 2016]{style="float:right"}  |
+| <span style="color: #545454; margin-left:3px"> [`r fontawesome::fa("chalkboard-teacher", fill = "#FF0000")` ] \ Presented a talk titled **"Warning of Paralyzed Bangladesh"**. </span> | [📍Netherlands]{style="float:right"}  ||
+|<br>|  
+| **<span style="color:  #030303;"> 6th Regional Public Health Conference, Dhaka, </span>** | [December 2015]{style="float:right"}  |
+| <span style="color: #545454; margin-left:3px"> [`r fontawesome::fa("chalkboard-teacher", fill = "#FF0000")` ] \ Presented a research project titled **"Fistula: An Overlooked yet Preventable, Treatable Problem"**. </span> | [📍Bangladesh]{style="float:right"}  ||
+
+---
+
+## <span style="color:  #276d6c;"> `r fontawesome::fa("award", fill = "#276d6c")` Achievements </span>
+|  |  |
+|:------------------------------------------------|:--------------------|
+| **<span style="color:  #030303;"> [<span style="color:#28479c;">Chevening Scholarship](https://www.fenews.co.uk/skills/uk-governments-prestigious-chevening-scholarships-applications-for-2020-21-now-open-in-bangladesh/) </span>** | [2019 - 2020]{style="float:right"}  |
+| <span style="color: #545454;"> 🏅 Scholarship </span> | [📍UK]{style="float:right"}  ||
+|<br>|   |
+| **<span style="color:  #030303;"> [<span style="color:#28479c;">French Government Scholarship](https://bd.ambafrance.org/Nusrat-Jabin-studied-at-the) </span>** | [2013 - 2014]{style="float:right"}  |
+| <span style="color: #545454;"> 🏅 Scholarship </span> | [📍France]{style="float:right"}  ||
+|<br>|   |
+---
+
+
+## <span style="color:  #276d6c;"> Interests and Hobbies </span>
+|  |  |
+|:------------------------------------------------|:--------------------|
+I love to paint <span style="font-size: 20px;"> 🎨 </span> cooking traditional food <span style="font-size: 20px;"> 🥘️ </span> spending time in nature <span style="font-size: 20px;"> 🌲🌲🌲 </span> and reading about cultures <span style="font-size: 20px;"> 📕 / 📗 / 📘 </span>.
+
+---
+
+Please refer to my CV for more details about my education, past research and teaching experience, presentations and courses, publications and ongoing projects. In case of questions or queries, feel free to contact me in any of my social media.
+
+<br>
+
+<span style="color: #7F7F7F; font-size: 14px"> Last Updated: 2025-04-19  </span>
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
