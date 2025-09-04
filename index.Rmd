@@ -156,6 +156,4 @@ Please refer to my CV for more details about my education, past research and tea
 <br>
 
 <span style="color: #7F7F7F; font-size: 14px"> Last Updated: 2025-04-19  </span>
-**Google Brain** | Principal Investigator | January 2018 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
