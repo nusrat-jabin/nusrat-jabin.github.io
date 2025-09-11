@@ -2,7 +2,7 @@
 title: "Nusrat Jabin"
 image: "njabin.jpg"
 links:
-  - label: '📑 CV'
+  - label: '📝 CV'
     url: "https://drive.google.com/file/d/1jsJgRgn3vTkav72Q-f9v3jbAIY9a7zYt/view?usp=sharing"
   - label: '`r fontawesome::fa("x-twitter", fill = "#242424")` Twitter'
     url: "https://x.com/NusratJabin3"
@@ -161,5 +161,5 @@ Please refer to my CV for more details about my education, past research and tea
 <br><br>
 
 <div style="text-align:center; margin-top:20px;">
-  <img src="jabin_web_log.jpg" style="height:50px;">
+  <img src="jabin_web_logo.png" style="height:200px;">
 </div>
