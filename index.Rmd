@@ -16,7 +16,7 @@ links:
     url: "https://scholar.google.com/citations?user=br9keYsAAAAJ&hl=en"
   - label: '`r fontawesome::fa("at", fill = "#36648B")` Email'
     url: "mailto:njabin1@jhu.edu"
-    favicon: "Logo_webpage.png"
+    #favicon: "Logo_webpage.png"
 output:
   postcards::trestles
 ---
