@@ -1,7 +1,6 @@
 ---
 title: "Nusrat Jabin"
 image: "njabin.jpg"
-favicon:"favicon-96x96.png"
 links:
   - label: '📑 CV'
     url: "https://drive.google.com/file/d/1jsJgRgn3vTkav72Q-f9v3jbAIY9a7zYt/view?usp=sharing"
@@ -17,6 +16,7 @@ links:
     url: "https://scholar.google.com/citations?user=br9keYsAAAAJ&hl=en"
   - label: '`r fontawesome::fa("at", fill = "#36648B")` Email'
     url: "mailto:njabin1@jhu.edu"
+favicon:"favicon-96x96.png"
 output:
   postcards::trestles
 ---
