@@ -2,7 +2,7 @@
 title: "Nusrat Jabin"
 image: "njabin.jpg"
 website:
-  title: "Bio"
+  title: "Nusrat Jabin"
   site-url: https://nusrat-jabin.github.io/
   favicon: "icon_32.png"
 favicon: "favicon-96x96.png"
