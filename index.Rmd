@@ -1,11 +1,7 @@
 ---
 title: "Nusrat Jabin"
 image: "njabin.jpg"
-website:
-  title: "Nusrat Jabin"
-  site-url: https://nusrat-jabin.github.io/
-  favicon: "icon_32.png"
-favicon: "favicon-96x96.png"
+favicon:"favicon-96x96.png"
 links:
   - label: '📑 CV'
     url: "https://drive.google.com/file/d/1jsJgRgn3vTkav72Q-f9v3jbAIY9a7zYt/view?usp=sharing"
